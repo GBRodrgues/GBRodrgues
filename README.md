@@ -1,16 +1,18 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=GBRodrgues&color=006bed)
+### Sobre
 
-<!--
-**GBRodrgues/GBRodrgues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas de Informação** no [IFMG](https://ifmg.edu.br)  
+💼 Antifraud Threat Analysis Technician na [Efí Bank](https://sejaefi.com.br)  
+🚀  Estudando novas tecnologias para resolver problemas do mundo real  
 
-Here are some ideas to get you started:
+### Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs,vue,java,mysql,postgresql)](https://skillicons.dev)
+
+---
+
+<a href="https://github.com/GBRodrgues/GBRodrgues/" title="Perfil do Gabriel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GBRodrgues&theme=dracula&show_icons=true" />
+</a>
+
+[LinkedIn](https://www.linkedin.com/in/gabrielcezarrodrigues/)  
